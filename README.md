@@ -8,7 +8,7 @@ The arms move slowly as an idle behavior, making the character feel alive even w
 
 ## Concept
 
-The idea is to create a witch-like character that feels quietly alive. The slow arm movement suggests a calm presence, even in bright light. When someone interacts with it, the piece reacts more strongly, as if the character is casting a spell and pulling the viewer into its world.
+The idea is to create a witch-like character that feels charming and alive. The slow arm movement, even in bright light, gives a lively feeling. When someone interacts with it, the piece reacts more strongly, as if the character is casting a spell and pulling the viewer into its world.
 
 ---
 
