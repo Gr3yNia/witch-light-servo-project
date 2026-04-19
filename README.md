@@ -3,6 +3,7 @@
 This project explores how light can create simple but expressive movement in a physical computing piece. A witch cat character is placed inside a layered paper environment, where motion is controlled by light sensors and servo motors.
 
 The arms move slowly as an idle behavior, making the character feel alive even without interaction. When someone moves their hand near the sensor and blocks the light, it triggers the circular elements behind the character to rotate, creating a stronger visual response.
+<img width="1280" height="720" alt="Nia-The-Witch-Thumbnail" src="https://github.com/user-attachments/assets/12d66641-a62d-4aaa-8c1c-58dc71f08a0e" />
 
 ---
 
